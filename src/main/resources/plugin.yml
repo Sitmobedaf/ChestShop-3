@@ -9,7 +9,7 @@ softdepend: [LWC, Lockette, Deadbolt, OddItem, WorldGuard, Heroes, SimpleChestLo
 
 commands:
   iteminfo:
-    aliases: [iinfo]
+    aliases: [id]
     description: Lists item id and names
     usage: |
            /<command> §2(what's the item in hand?)
